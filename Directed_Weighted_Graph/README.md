@@ -3,15 +3,10 @@ Welcome to the "Directed Weighted Graph" project! In this repository, we have de
 https://docs.google.com/document/d/17h5VGIHtqWHrzgoRjH05_PjHgCn8-EDcecrkR9sVChQ/edit
 
 ## Screenshots:
-![image](https://github.com/tzachaker/Ex2_OOP/assets/76492492/1f70fb97-e3e6-4065-9227-cf32dfce557c)
-![image](https://github.com/tzachaker/Ex2_OOP/assets/76492492/6b1e2c08-6b40-4caf-826d-33d35a828a9d)
-![image](https://github.com/tzachaker/Ex2_OOP/assets/76492492/92af3436-1258-4f08-8922-7c56aff23deb)
-![image](https://github.com/tzachaker/Ex2_OOP/assets/76492492/120548c6-335c-4333-8614-2a9d1be89310)
-
-
-
-
-
+![image](https://github.com/tzachaker/Java_Projects/assets/76492492/9d0e61ae-2549-4a27-a0e0-4706e74dca6d)
+![image](https://github.com/tzachaker/Java_Projects/assets/76492492/a7ad6536-4b3b-4f7c-b1bf-a328c892fae1)
+![image](https://github.com/tzachaker/Java_Projects/assets/76492492/db6bebe3-39aa-4961-a652-baaa3f500953)
+![image](https://github.com/tzachaker/Java_Projects/assets/76492492/03029f7a-6aeb-4a4c-b09f-87b53ed524ef)
 
 ## Project Overview
 In this project, our main focus was on working with directed weighted graphs. The project encompasses the following key features:
