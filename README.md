@@ -7,10 +7,8 @@ The "Java Projects" repository is designed to provide a platform for exploring a
 
 ## Projects
 This repository hosts a diverse selection of Java projects, catering to various skill levels and interests. Here's a glimpse of what you'll find:
-
-- Console Applications: Explore console-based Java applications that demonstrate core programming concepts like loops, conditionals, and data structures.
-
-- Graphical User Interfaces (GUI): Dive into projects that utilize Java's GUI libraries to create interactive applications with graphical interfaces.
+- Directed_Weighted_Graph
+- Ice_Breaker
 
 ## Contributing
 Contributions to this repository are highly encouraged! Whether you're a Java enthusiast, an educator, or a learner, you can contribute your projects, improvements, and suggestions. If you have an innovative project idea, a bug fix, or enhancements to existing projects, feel free to open an issue or submit a pull request. Your contributions will be invaluable in enriching this collection of Java projects.
