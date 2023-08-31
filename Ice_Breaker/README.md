@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the Icebreaker Android application GitHub repository! Developed using Java in Android Studio, Icebreaker is designed to provide you with a dynamic platform to connect, communicate, and enjoy games with your friends and fellow community members. The app harnesses the power of Firebase Realtime Database to ensure seamless data storage and retrieval, creating a smooth and engaging user experience.
 
-[Watch the Demo Video](https://github.com/tzachaker/Ice_Breaker/assets/76492492/5c8724f3-fed8-4be5-9295-53112f657227)
+[Watch the Demo Video](https://github.com/tzachaker/Java_Projects/assets/76492492/cf768970-3f38-4d44-a2bc-32529116f907)
 
 ## Features at a Glance
 
